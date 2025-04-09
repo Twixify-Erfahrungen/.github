@@ -7,7 +7,7 @@
   height="500"
 />
 
-<p>👉 </p><a target="_blank" href="https://main.twixify.com/register?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
+<a target="_blank" href="https://main.twixify.com/register?via=new"> <p>👉 </p>Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
 
 <p>👉 </p><a target="_blank" href="https://main.twixify.com/register?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
 
