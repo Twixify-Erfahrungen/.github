@@ -7,9 +7,9 @@
   height="500"
 />
 
-<a target="_blank" href="https://main.twixify.com/register?via=new">👉 Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
+<p>👉 </p><a target="_blank" href="https://main.twixify.com/register?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
 
-<a target="_blank" href="https://main.twixify.com/register?via=new">👉 Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
+<p>👉 </p><a target="_blank" href="https://main.twixify.com/register?via=new">Klicken Sie hier, um kostenlosen Zugriff zu erhalten!</a>
 
 <h2>Twixify Preisübersicht: Welche Abos bieten das beste Preis-Leistungs-Verhältnis?</h2>
 
