@@ -2,10 +2,10 @@
 <p><strong>Twixify admin</strong> | <time datetime="2025-04-09">April 9, 2025</time></p>
 
 <img src="https://cdn.discordapp.com/attachments/337687742488117261/1359497934558855228/ChatGPT_Image_9_avr._2025_13_59_14.png?ex=67f7b29d&is=67f6611d&hm=bcb608ac0ec0d0904fc37cfba1a9ee7af15c224c588c6eb28b0ffbe2e41de9b9&"
-  alt=""bypass AI detectors with Twixify""
-  width=""800""
-  height=""450""
-/>"
+  alt="bypass AI detectors with Twixify"
+  width="800"
+  height="450"
+/>
 
 <h2>Twixify Preisübersicht: Welche Abos bieten das beste Preis-Leistungs-Verhältnis?</h2>
 
